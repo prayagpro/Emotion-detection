@@ -14,21 +14,6 @@ An AI-powered real-time **Emotion Detection System** that detects faces and reco
 - Displays probabilities of detected emotions with visual feedback.
 - Compatible with live webcam input.
 
----
-
-## 📂 Project Structure
-
-```
-Emotion-Detection/
-├── haarcascade_frontalface_default.xml      # Haar Cascade for face detection
-├── _mini_XCEPTION.102-0.66.hdf5            # Pre-trained emotion detection model
-├── face_detection.py                       # Main Python script
-├── README.md                               # Project documentation
-└── venv/                                   # Virtual environment (optional)
-```
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
