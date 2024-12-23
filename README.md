@@ -4,15 +4,16 @@
 # Emotion Detection System
 
 An AI-powered real-time **Emotion Detection System** that detects faces and recognizes emotions from a webcam feed. The system uses a pre-trained deep learning model to classify emotions such as happy, sad, angry, surprised, and more.
-
+```
 ---
 
 ## 📸 Features
-
+```bash
 - Real-time **Face Detection** using OpenCV's Haar Cascade.
 - Emotion recognition powered by a pre-trained `_mini_XCEPTION` model.
 - Displays probabilities of detected emotions with visual feedback.
 - Compatible with live webcam input.
+```
 
 ## ⚙️ Installation
 
